@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;900&display=swap');
+
+body{
+     background: linear-gradient(#2EAAFA, #1F2F98);
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    background-attachment: fixed;
+}
+
+.admin-button{
+    width: 250px;
+    height: 80px;
+    margin: auto;
+    border: none;
+    background-color: rgb(65, 105, 225);
+    color: aliceblue;
+}
+
+.admin-button:hover{
+    background-color: gold;
+}
+a{
+    margin: auto;
+}

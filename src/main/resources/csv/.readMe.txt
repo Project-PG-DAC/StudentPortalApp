@@ -1,0 +1,17 @@
+mod1 : Core Java J2SE
+mod2 : DBT
+
+
+
+
+D:\5.IACSD project\AA1_Project\project\CDAC-FINAL-PROJECT\com.cdac.final.project.demo1\src\main\resources\csv
+
+D:\5.IACSD project\AA1_Project\project\CDAC-FINAL-PROJECT\com.cdac.final.project.demo1\src\main\resources\csv\attendanceMod1.csv
+D:\5.IACSD project\AA1_Project\project\CDAC-FINAL-PROJECT\com.cdac.final.project.demo1\src\main\resources\csv\attendanceMod2.csv
+
+D:\5.IACSD project\AA1_Project\project\CDAC-FINAL-PROJECT\com.cdac.final.project.demo1\src\main\resources\csv\labMarksMod1.csv
+D:\5.IACSD project\AA1_Project\project\CDAC-FINAL-PROJECT\com.cdac.final.project.demo1\src\main\resources\csv\labMarksMod2.csv
+
+D:\5.IACSD project\AA1_Project\project\CDAC-FINAL-PROJECT\com.cdac.final.project.demo1\src\main\resources\csv\mcqsMod1.csv
+D:\5.IACSD project\AA1_Project\project\CDAC-FINAL-PROJECT\com.cdac.final.project.demo1\src\main\resources\csv\mcqsMod2.csv
+
