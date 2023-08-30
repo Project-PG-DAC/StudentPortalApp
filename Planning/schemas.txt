@@ -1,0 +1,9 @@
+1. User tables : user_tables (profile)
+2. result_table & exam_table tables (same table)
+3. current_day_attendance 
+4. overall_attendance tables
+5. doubt_forum table
+6. lecture_link table
+7. performance_table table
+8. pending_feedback table
+9. teacher_feedback table
